@@ -17,7 +17,7 @@
 
 ---
 
-**NOTE:** !!!! Fixed by zdetp !!!!Hazard is not finished! You can expect bugs, crashes, and non-working functions. Please make an issue if you find a bug!
+**NOTE:** !!!! Fixed by zdetp !!!! Hazard is not finished! You can expect bugs, crashes, and non-working functions. Please make an issue if you find a bug!
 ㅤ
 #### Hazard Nuker was made with
 Love ❌ <br>
@@ -139,13 +139,6 @@ I hope you end up on the streets begging for spare change.
 
 ## Installation 
 
-#### Compiled Version (Easier but more buggy)
-```sh-session
-Visit: https://github.com/KDot227/hazard-nuker-mirror/releases
-Download the latest release (Hazard.zip) and extract the EXE to your desktop.
-Finally, run the executable and enjoy!
-```
-
 #### Source Code Version (More complicated but less buggy)
 ```sh-session
 Click the green "Code" button.
@@ -168,4 +161,4 @@ Discord: Rdimo | zdetp
 
 Website: https://cheataway.com/
 
-Server: Updating..
+Server: Updating...
