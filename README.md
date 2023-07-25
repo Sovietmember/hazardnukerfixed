@@ -17,7 +17,7 @@
 
 ---
 
-**NOTE:** !!!! Fixed by zdetp !!!! Hazard is not finished! You can expect bugs, crashes, and non-working functions. Please make an issue if you find a bug!
+**NOTE:** !!!! Fixed by soviet !!!! Hazard is not finished! You can expect bugs, crashes, and non-working functions. Please make an issue if you find a bug!
 ㅤ
 #### Hazard Nuker was made with
 Love ❌ <br>
@@ -157,7 +157,7 @@ NOTE: Make sure you have Python 3.9.5 or above installed from python.org (NOT MI
 
 **Hazard Stealer was created by Rdimo & DeKrypt and fixed by zdetp. + Maintained by K.Dot227**
 
-Discord: Rdimo | zdetp
+Discord: Rdimo | soviet
 
 Website: https://cheataway.com/
 
