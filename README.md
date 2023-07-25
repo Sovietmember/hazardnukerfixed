@@ -155,7 +155,7 @@ NOTE: Make sure you have Python 3.9.5 or above installed from python.org (NOT MI
 
 🌟 **Enjoyed Hazard Nuker?** Consider dropping a star :)
 
-**Hazard Stealer was created by Rdimo & DeKrypt and fixed by zdetp. + Maintained by K.Dot227**
+**Hazard Stealer was created by Rdimo & DeKrypt and fixed by soviet. + Maintained by K.Dot227**
 
 Discord: Rdimo | soviet
 
